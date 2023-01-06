@@ -6,4 +6,4 @@ Here you can have access to some of my projects.
 
 # Projects
 
-* **Credit Card Fraud Detection:** This projects uses machine learning algorithms to classifiy transactions in credit cards as fraudulent or not. [Link](* **Credit Card Fraud Detection:** This projects uses machine learning algorithms to classifiy transactions in credit cards as fraudulent or not).
+* **Credit Card Fraud Detection:** This projects uses machine learning algorithms to classifiy transactions in credit cards as fraudulent or not. [Link](https://github.com/CaioLSouza/my_portfolio_en/blob/main/Credit_card_fraud_detection_with_machine_learning.ipynb)
