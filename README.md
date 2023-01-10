@@ -5,7 +5,7 @@ Hello, there! My name is Caio and I am an undergraduate student of economics on 
 Here you can have access to some of my projects.
 
 # Projects
-* **AIRBNB Exploratory Data Analysis**: Here, was made a exploratory data analysis of the AIRBNB dataset of Los Angeles. It was possible to study the dataset, extract some insights and visualize the data.
+* **AIRBNB Exploratory Data Analysis**: Here, was made a exploratory data analysis of the AIRBNB dataset of Los Angeles. It was possible to study the dataset, extract some insights and visualize the data. [Link](https://github.com/CaioLSouza/my_portfolio_en/blob/main/Airbnb_Los_Angeles_Exploratory_Data_Analysis.ipynb)
 
 * **Credit Card Fraud Detection:** This projects uses machine learning algorithms to classifiy transactions in credit cards as fraudulent or not. [Link](https://github.com/CaioLSouza/my_portfolio_en/blob/main/Credit_card_fraud_detection_with_machine_learning.ipynb).
 
